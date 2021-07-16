@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">number log</string>
+    <string name="title_home">Input</string>
+    <string name="title_history">History</string>
+    <string name="home_fragment_title">NUMBER LOG</string>
+    <string name="home_prompt">Enter the value</string>
+    <string name="history_fragment_title">History</string>
+    <string name="history_fragment_subtext">List of all values in chronological order</string>
+</resources>
