@@ -15,4 +15,6 @@ Other jetpack components used are
   
 Hilt-Dagger is used for dependency injection and Coroutines for background database operations.
 
+&nbsp; &nbsp;&nbsp; <img src="screenshot_for_readme/1.jpg" width = 250 >&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshot_for_readme/2.jpg" width = 250 >
+
 
